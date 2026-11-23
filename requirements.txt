@@ -1,0 +1,8 @@
+composio>=0.32.0
+python-dotenv>=1.0.1
+pydantic>=2.8.0
+pandas>=2.2.0
+requests>=2.32.0
+beautifulsoup4>=4.12.0
+keenable>=0.1.0
+mcp>=1.0.0
