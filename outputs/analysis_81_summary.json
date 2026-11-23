@@ -1,0 +1,7 @@
+{
+  "rows_reviewed": 81,
+  "first_party_source_rows": 79,
+  "source_gaps": 2,
+  "mcp_signal_rows": 56,
+  "note": "First-party source trails and MCP search signals are not equivalent to full page-level verification or confirmed production-ready integrations."
+}
